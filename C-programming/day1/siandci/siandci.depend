@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631632568 source:c:\users\user\documents\day1\siandci\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operator3.h"
+
+1631632648 c:\users\user\documents\day1\siandci\operator3.h
+
+1631632321 source:c:\users\user\documents\day1\siandci\operator3.c
+	<stdio.h>
+	"operator3.h"
+	<math.h>
+

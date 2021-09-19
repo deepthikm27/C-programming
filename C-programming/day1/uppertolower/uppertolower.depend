@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631629071 source:c:\users\user\documents\day1\uppertolower\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"operator1.h"
+
+1631629063 c:\users\user\documents\day1\uppertolower\operator1.h
+

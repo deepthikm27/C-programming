@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631869263 source:c:\users\user\documents\day1\evenleappower\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"operator5.h"
+
+1631868913 c:\users\user\documents\day1\evenleappower\operator5.h
+
+1631869388 source:c:\users\user\documents\day1\evenleappower\operator5.c
+	"operator5.h"
+	<stdio.h>
+

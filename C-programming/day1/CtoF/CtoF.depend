@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631714562 source:c:\users\user\documents\day1\ctof\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operator4.h"
+
+1631714734 c:\users\user\documents\day1\ctof\operator4.h
+
+1631714336 source:c:\users\user\documents\day1\ctof\operator4.c
+	<stdio.h>
+	"operator4.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1631630961 source:c:\users\user\documents\day1\areaofcircle\operator2.c
+	<stdio.h>
+	"operator2.h"
+
+1631630446 c:\users\user\documents\day1\areaofcircle\operator2.h
+
+1631630764 source:c:\users\user\documents\day1\areaofcircle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operator2.h"
+
