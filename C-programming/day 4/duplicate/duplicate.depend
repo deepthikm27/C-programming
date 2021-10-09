@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633704336 source:c:\users\user\documents\c programming\day 4\duplicate\duplicate.c
+	<stdio.h>
+	"duplicate.h"
+
+1633703631 c:\users\user\documents\c programming\day 4\duplicate\duplicate.h
+
+1633704167 source:c:\users\user\documents\c programming\day 4\duplicate\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"duplicate.h"
+

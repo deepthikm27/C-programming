@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633675163 source:c:\users\user\documents\c programming\day 4\sort\main.c
+	<assert.h>
+	<stdio.h>
+	"sort.h"
+
+1633675308 c:\users\user\documents\c programming\day 4\sort\sort.h
+
+1633674939 source:c:\users\user\documents\c programming\day 4\sort\sort.c
+	<stdio.h>
+	"sort.h"
+
