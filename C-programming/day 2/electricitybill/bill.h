@@ -1,2 +1,2 @@
 
-int electricity_bill(float, float);
+int electricity_bill(float);

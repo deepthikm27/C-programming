@@ -1,2 +1,0 @@
-
-int menu(int, int);

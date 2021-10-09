@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633786897 source:e:\code blocks program\day6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assert.h"
+	"day6.h"
+
+1633783083 e:\code blocks program\day6\day6.h
+
+1633788553 source:e:\code blocks program\day6\day6.c
+	"day6.h"
+	<stdio.h>
+
