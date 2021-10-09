@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633715578 source:c:\users\user\documents\c programming\day 2\menudriven\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1633715399 c:\users\user\documents\c programming\day 2\menudriven\menu.h
+
+1633715645 source:c:\users\user\documents\c programming\day 2\menudriven\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+

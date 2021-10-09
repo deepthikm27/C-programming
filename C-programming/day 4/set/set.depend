@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633678321 source:c:\users\user\documents\c programming\day 4\set\set.c
+	<stdio.h>
+	"set.h"
+
+1633679610 c:\users\user\documents\c programming\day 4\set\set.h
+
+1633678289 source:c:\users\user\documents\c programming\day 4\set\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"set.h"
+

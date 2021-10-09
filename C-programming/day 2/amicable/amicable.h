@@ -1,0 +1,1 @@
+int amicable(int, int);

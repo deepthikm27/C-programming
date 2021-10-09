@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1632494190 source:c:\users\user\documents\c programming\day 2\amicable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"amicable.h"
+	<assert.h>
+
+1632486073 c:\users\user\documents\c programming\day 2\amicable\amicable.h
+
+1632493868 source:c:\users\user\documents\c programming\day 2\amicable\amicable.c
+	<stdio.h>
+	"amicable.h"
+

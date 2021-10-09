@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632482342 source:c:\users\user\documents\c programming\day 2\sumofseries\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sumofseries.h"
+
+1632482342 c:\users\user\documents\c programming\day 2\sumofseries\sumofseries.h
+
+1632483401 source:c:\users\user\documents\c programming\day 2\sumofseries\sumofseries.c
+	<stdio.h>
+	"sumofseries.h"
+

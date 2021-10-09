@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632472455 source:c:\users\user\documents\c programming\day 2\sumofdigits\main.c
+	<assert.h>
+	"sum.h"
+
+1632481151 c:\users\user\documents\c programming\day 2\sumofdigits\sum.h
+
+1632481151 source:c:\users\user\documents\c programming\day 2\sumofdigits\sum.c
+	<stdio.h>
+	"sum.h"
+

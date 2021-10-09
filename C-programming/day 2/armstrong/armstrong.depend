@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1632484211 source:c:\users\user\documents\c programming\day 2\armstrong\armstrong.c
+	<stdio.h>
+	"armstrong.h"
+
+1632484695 c:\users\user\documents\c programming\day 2\armstrong\armstrong.h
+
+1632484514 source:c:\users\user\documents\c programming\day 2\armstrong\main.c
+	<stdio.h>
+	<stdlib.h>
+	"armstrong.h"
+

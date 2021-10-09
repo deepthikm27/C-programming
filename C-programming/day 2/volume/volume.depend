@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1633717105 source:c:\users\user\documents\c programming\day 2\volume\main.c
+	<stdio.h>
+	<stdlib.h>
+	"volume.h"
+
+1633716998 source:c:\users\user\documents\c programming\day 2\volume\volume.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"volume.h"
+
+1633717334 c:\users\user\documents\c programming\day 2\volume\volume.h
+
